@@ -1,0 +1,36 @@
+/* *{margin: 0;padding: 0; transition: 0.5s;}
+html,body{
+    width: 100%;
+}
+h1{
+text-align: center;
+color: rgba(218, 196, 199, 0.76);
+font-size: 200px;
+font-family: Courier ;
+position: relative;
+box-sizing: border-box ;
+border: 0;
+margin: 20px;
+}
+input{
+    margin-left: 450px;
+    width: 1000px;
+    height: 50px;
+    text-align: start;
+    border-style: ridge;
+    font-size: 24px;
+    text-transform: none;
+    padding: 10px;
+    font-size:30px;
+    color: rgb(224, 216, 216);
+    font-style: italic;
+    display: inline-block;
+
+}
+p{
+    
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    
+} */
